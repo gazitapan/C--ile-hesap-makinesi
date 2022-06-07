@@ -1,0 +1,7 @@
+C:\Users\gazit\OneDrive\Masaüstü\C# Uygulamaları\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\gazit\OneDrive\Masaüstü\C# Uygulamaları\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\gazit\OneDrive\Masaüstü\C# Uygulamaları\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\gazit\OneDrive\Masaüstü\C# Uygulamaları\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojAssemblyReference.cache
+C:\Users\gazit\OneDrive\Masaüstü\C# Uygulamaları\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\gazit\OneDrive\Masaüstü\C# Uygulamaları\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\gazit\OneDrive\Masaüstü\C# Uygulamaları\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
